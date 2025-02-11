@@ -1,0 +1,10 @@
+.box{
+  border: 2px solid black;
+  width: 30vw;
+  margin: auto;
+  height: 50vh;
+}
+button{
+  display: block;
+  margin: 20px auto;
+}
